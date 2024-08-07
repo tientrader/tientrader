@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, SQL,..**
 
-- 📫 How to reach me **ntien.se03@gmail.com**
+- 📫 Contact me **ntien.se03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
