@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Truong Nhat Tien</h1>
 <h3 align="center">Back-end Software Engineer from VietNam.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/4ku88ZC.gif”>
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif”>
 
-- 🔭 I’m currently working on **E-commerce Microservices**
+- 🔭 I’m currently working on **E-commerce Microservices Project**
 
 - 💬 Ask me about **Java, Spring Framework**
 
