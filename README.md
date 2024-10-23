@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!</h1>
 <h3 align="center">I'm Tien, a Back-end Software Engineer from VietNam.</h3>
 
-- 🧱 I’m currently working on **[E-commerce Microservices Project](https://github.com/ntien03/E-Commerce-Microservices)**
+- 🧱 I’m currently working on **[Social-Marketplace Microservices Project](https://github.com/tientrader/Social-Marketplace)**
 
 - 📩 Contact me **truongnhattien.business@gmail.com**
 
