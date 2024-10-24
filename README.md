@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 🌍</h1>
-<h3 align="center">I’m Tien, dedicated to leveraging Java technologies to create scalable and efficient back-end applications that bring value to users. ☕️</h3>
+<h3 align="center">I’m Tien, dedicated to leveraging Java and modern technologies to create scalable and efficient back-end applications that bring value to users. ☕️</h3>
 
 <p align="center">
   <i>"When you can’t study because you need sleep, yet you can’t sleep because there’s so much to learn." 🌙</i>
