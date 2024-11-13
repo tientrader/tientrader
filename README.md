@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- I'm a **Backend Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building performant, scalable, resilient, and secure systems with high availability, effective monitoring, and robust error handling.
+- I'm a **Backend Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building high-performance, scalable, resilient, and secure systems with high availability, effective monitoring, and robust error handling.
 
 - Every line of code, every design decision, is guided by principles that ensure not only meeting the requirements but also creating systems that are robust and sustainable.
 
