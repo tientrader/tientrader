@@ -1,12 +1,22 @@
 <h1 align="center">Hello World! 🌍</h1>
-<h3 align="center">I’m Tien, dedicated to leveraging Java and modern technologies to create scalable and efficient back-end applications that bring value to users. ☕️</h3>
 
 <p align="center">
   <i>"When you can’t study because you need sleep, yet you can’t sleep because there’s so much to learn." 🌙</i>
 </p>
 
-- 🧱 I’m currently working on **[Social-Marketplace Microservices Project](https://github.com/tientrader/Social-Marketplace)**.
-- 📩 Feel free to reach out: **truongnhattien.business@gmail.com**.
+---
+
+## 👨‍💻 About Me
+
+- I'm a **Backend Software Engineer** who believes that delivering a feature is only one part of the job. True engineering goes beyond functionality—it’s about building systems that are performant, scalable, resilient, and secure, with a focus on high availability, effective monitoring, and strong error handling. Every line of code, every design decision, is guided by principles that ensure not only meeting the requirements but also creating systems that are robust and sustainable.
+
+---
+
+## 🛠️ Current Project
+- I'm currently working on **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
+
+## 📬 Contact Me
+- You can reach me at **truongnhattien.business@gmail.com**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d841f79-f1d0-46b2-959e-0a550dea6ad8" alt="My Image" width="600"/>
