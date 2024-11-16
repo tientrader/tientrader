@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🌍</h1>
+<h1 align="center">Hello World!</h1>
 
 <p align="center">
   <i>"When you can’t study because you need sleep, yet you can’t sleep because there’s so much to learn." 🌙</i>
@@ -17,9 +17,12 @@
 ## 🛠️ Current Project
 - I'm currently working on **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
 
-## 📬 Contact Me
-- You can reach me at **truongnhattien.business@gmail.com**.
+## 🎓 LeetCode Progress
+- **[My profile](https://leetcode.com/truongnhattien/)**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d841f79-f1d0-46b2-959e-0a550dea6ad8" alt="My Image" width="600"/>
+  <img src="https://leetcard.jacoblin.cool/truongnhattien?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats">
 </p>
+
+## 📬 Contact Me
+- You can reach me at **truongnhattien.business@gmail.com**.
