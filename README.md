@@ -17,12 +17,15 @@
 ## 🛠️ Current Project
 - I'm currently working on **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
 
+---
+
 ## 🎓 LeetCode Progress
 - **[My profile](https://leetcode.com/truongnhattien/)**.
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/truongnhattien?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats">
 </p>
+
+---
 
 ## 📬 Contact Me
 - You can reach me at **truongnhattien.business@gmail.com**.
