@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Current Project
-- I'm currently working on **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
+- **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
 
 ---
 
