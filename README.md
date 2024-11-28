@@ -24,8 +24,3 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/truongnhattien?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats">
 </p>
-
----
-
-## 📬 Contact Me
-- You can reach me at **truongnhattien.business@gmail.com**.
