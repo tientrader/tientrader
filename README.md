@@ -20,7 +20,9 @@
 ---
 
 ## 🎓 LeetCode Progress
-- **[My profile](https://leetcode.com/truongnhattien/)**.
+- Check out my [profile](https://leetcode.com/truongnhattien/).  
+- A great way to practice logic and problem-solving skills.
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/truongnhattien?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats">
 </p>
