@@ -20,7 +20,7 @@
 ---
 
 ## 🎓 LeetCode Progress
-- Check out my [profile](https://leetcode.com/truongnhattien/).  
+- Check out my **[profile](https://leetcode.com/truongnhattien/)**.  
 - A great way to practice logic and problem-solving skills.
 
 <p align="center">
