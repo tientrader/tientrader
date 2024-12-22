@@ -1,4 +1,4 @@
-<h1 align="center">🌏 Hello World! 🌎</h1>
+<h1 align="center">Hello World! 🌎</h1>
 
 <p align="center">
   <i>"Self-learning and constant growth are the keys to mastering software engineering, not waiting for a classroom to teach you." 💻</i>
@@ -17,13 +17,3 @@
 ## 🛠️ Project
 - Currently developing a scalable and feature-rich platform connecting vendors and customers for seamless online shopping.
 - Check out my **[Multi-Vendor E-commerce Marketplace Project](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
-
----
-
-## 🎓 LeetCode
-- A great way to practice logic and problem-solving skills.
-- Check out my **[Profile](https://leetcode.com/truongnhattien/)**.  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/truongnhattien?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats">
-</p>
