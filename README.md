@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 🌎</h1>
 
 <p align="center">
-  <i>"Self-learning and constant growth are the keys to mastering software engineering, not waiting for a classroom to teach you." 💻</i>
+  <i>"Self-learning and constant growth are the keys to mastering software engineering, not waiting for a classroom to teach you."</i>
 </p>
 
 ---
