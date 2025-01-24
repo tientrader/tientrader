@@ -13,5 +13,4 @@
 ---
 
 ## 🛠️ Project
-- Currently developing a scalable and feature-rich platform connecting vendors and customers for seamless online shopping.
 - Check out my **[Multi-Vendor E-commerce Marketplace Project](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
