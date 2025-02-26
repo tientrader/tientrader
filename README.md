@@ -14,4 +14,4 @@
 
 ## 🛠️ Project
 - **[Multi-Vendor E-commerce Marketplace Project](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
-- **[Cloud-Services Project](https://github.com/tientrader/Cloud-Services)**.
+- **[Cloud Infrastructure on AWS Project](https://github.com/tientrader/Cloud-Infrastructure-AWS)**.
