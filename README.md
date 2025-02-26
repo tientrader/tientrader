@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- I'm a **Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building high-performance, scalable, resilient, and secure systems with high availability, effective monitoring, and robust error handling.
+- I'm a **Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building scalable, resilient, and secure systems with high availability, monitoring, and error handling.
 
 ---
 
