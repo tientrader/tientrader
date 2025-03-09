@@ -10,10 +10,10 @@
 
 - I'm a **Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building scalable, resilient, and secure systems with high availability, monitoring, and error handling.
 
-- I’m passionate about **Backend Development**, **Data**, **DevOps**, **Cloud**, and **AI/Machine Learning**, continuously expanding my knowledge in these areas to build high-performance and efficient systems.
+- I’m passionate about **Backend Development**, **Data**, **DevOps**, **Cloud**, and **AI/Machine Learning**, continuously learning and applying best practices to build high-performance and efficient systems.
 
 ---
 
 ## 🛠️ Project
-- **[Multi-Vendor E-commerce Marketplace Project](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
-- **[Cloud Infrastructure on AWS Project](https://github.com/tientrader/Cloud-Infrastructure-AWS)**.
+- **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
+- **[Cloud Infrastructure on AWS](https://github.com/tientrader/Cloud-Infrastructure-AWS)**.
