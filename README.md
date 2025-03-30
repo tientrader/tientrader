@@ -16,4 +16,4 @@
 
 ## 🛠️ Project
 - **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
-- **[Cloud Infrastructure on AWS](https://github.com/tientrader/Cloud-Infrastructure-AWS)**.
+- **[AI Agent AWS Infrastructure](https://github.com/tientrader/AI-Agent-AWS-Infrastructure)**.
