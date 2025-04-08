@@ -14,6 +14,6 @@
 
 ---
 
-## 🛠️ Project
+## 🛠️ Personal Project
 - **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
 - **[AI Agent AWS Infrastructure](https://github.com/tientrader/AI-Agent-AWS-Infrastructure)**.
