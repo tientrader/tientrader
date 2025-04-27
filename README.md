@@ -10,8 +10,6 @@
 
 - I'm a **Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building scalable, resilient, and secure systems with high availability, monitoring, and error handling.
 
-- I’m passionate about **Backend Development**, **AI**, **DevOps**, and **Cloud**, continuously learning and applying best practices to build high-performance and efficient systems.
-
 ---
 
 ## 🛠️ Personal Projects
