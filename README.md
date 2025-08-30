@@ -9,9 +9,3 @@
 ## 👨‍💻 About Me
 
 - I'm a **Software Engineer** who believes that delivering a feature is only one part of the job. True engineering is about building scalable, resilient, and secure systems with high availability, monitoring, and error handling.
-
----
-
-## 🛠️ Personal Projects
-- **[Multi-Vendor E-commerce Marketplace](https://github.com/tientrader/Multi-Vendor-E-commerce-Marketplace)**.
-- **[AI Agent AWS Infrastructure](https://github.com/tientrader/AI-Agent-AWS-Infrastructure)**.
